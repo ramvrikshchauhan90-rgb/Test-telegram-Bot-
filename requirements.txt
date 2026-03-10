@@ -8,3 +8,4 @@ requests
 python-telegram-bot
 psutil
 flask
+pyTelegramBotAPI
